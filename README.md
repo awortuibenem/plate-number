@@ -1,6 +1,6 @@
 # Driver's License Registration System
 
-This project is a simple web application for registering and applying for driver's licenses. It allows users to fill out a form with their personal information, generates a random license number, stores the information in a database, and sends an email confirmation to the user.
+This project is a simple web application for registering and applying for Plate Number's. It allows users to fill out a form with their personal information, generates a random Plate Number, stores the information in a database, and sends an email confirmation to the user.
 
 ## Features
 
