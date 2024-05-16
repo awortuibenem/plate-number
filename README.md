@@ -20,7 +20,7 @@ This project is a simple web application for registering and applying for Plate 
 
 1. Clone the repository to your local machine:
 
-2. Import the SQL file (`database.sql`) to set up the database structure.
+2. Import the SQL file (`pnumber.sql`) to set up the database structure.
 
 3. Update the database connection details in the PHP files (`config.php` and any other files where the connection is established).
 
